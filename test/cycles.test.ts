@@ -101,4 +101,3 @@ test('independent branches resolved in parallel do not trip the cycle check', as
   assert.equal(a, 'efe');
   assert.equal(f, 'fe');
 });
-

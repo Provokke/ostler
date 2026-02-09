@@ -11,4 +11,3 @@ export {
   ScopeError,
   UnregisteredError
 } from './errors.js';
-
